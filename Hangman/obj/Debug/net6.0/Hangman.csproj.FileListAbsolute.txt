@@ -1,0 +1,15 @@
+D:\Documents\Sogyo\Hangman-Csharp\Hangman\bin\Debug\net6.0\Hangman.exe
+D:\Documents\Sogyo\Hangman-Csharp\Hangman\bin\Debug\net6.0\Hangman.deps.json
+D:\Documents\Sogyo\Hangman-Csharp\Hangman\bin\Debug\net6.0\Hangman.runtimeconfig.json
+D:\Documents\Sogyo\Hangman-Csharp\Hangman\bin\Debug\net6.0\Hangman.dll
+D:\Documents\Sogyo\Hangman-Csharp\Hangman\bin\Debug\net6.0\Hangman.pdb
+D:\Documents\Sogyo\Hangman-Csharp\Hangman\obj\Debug\net6.0\Hangman.csproj.AssemblyReference.cache
+D:\Documents\Sogyo\Hangman-Csharp\Hangman\obj\Debug\net6.0\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Sogyo\Hangman-Csharp\Hangman\obj\Debug\net6.0\Hangman.AssemblyInfoInputs.cache
+D:\Documents\Sogyo\Hangman-Csharp\Hangman\obj\Debug\net6.0\Hangman.AssemblyInfo.cs
+D:\Documents\Sogyo\Hangman-Csharp\Hangman\obj\Debug\net6.0\Hangman.csproj.CoreCompileInputs.cache
+D:\Documents\Sogyo\Hangman-Csharp\Hangman\obj\Debug\net6.0\Hangman.dll
+D:\Documents\Sogyo\Hangman-Csharp\Hangman\obj\Debug\net6.0\refint\Hangman.dll
+D:\Documents\Sogyo\Hangman-Csharp\Hangman\obj\Debug\net6.0\Hangman.pdb
+D:\Documents\Sogyo\Hangman-Csharp\Hangman\obj\Debug\net6.0\Hangman.genruntimeconfig.cache
+D:\Documents\Sogyo\Hangman-Csharp\Hangman\obj\Debug\net6.0\ref\Hangman.dll
